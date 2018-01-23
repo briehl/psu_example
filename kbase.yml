@@ -1,0 +1,14 @@
+module-name:
+    psu_example
+
+module-description:
+    An example KBase module for filtering contigs.
+
+service-language:
+    python
+
+module-version:
+    0.0.1
+
+owners:
+    [wjriehl]
